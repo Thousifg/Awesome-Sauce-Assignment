@@ -1,0 +1,33 @@
+.section-features{
+    display: flex;
+    gap: 2%;
+    padding: 60px;
+    margin: 20px 50px;
+}
+.feature-div{
+    width: 23%;
+    padding: 1.5rem;
+    background-color: #f0f4f0;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    word-wrap: break-word;
+}
+
+.feature-div>img{
+    width: 40%;
+}
+
+.feature-div>p{
+    font-size: 13px;
+    margin-top: 15px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding: 10px;
+}
+
+.feature-div>h3{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+

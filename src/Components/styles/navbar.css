@@ -1,0 +1,61 @@
+.logo {
+    width: 30%;
+    margin: 20px 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    transition: all 0.1s linear;
+    background-color: #ffffff;
+    z-index: 50;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+.utils {
+    margin-right: 70px;
+    display: flex;
+}
+
+.utils>h2{
+    margin-top: 14%;
+    cursor: pointer;
+}
+
+.search-icon {
+    width: 3em !important;
+    height: 2rem;
+    fill: #585858 !important;
+    stroke: #585858;
+    cursor: pointer;
+    margin: 40px 10px;
+}
+
+.bag-icon {
+    width: 3em !important;
+    height: 2rem;
+    fill: #585858 !important;
+    stroke: #585858;
+    cursor: pointer;
+    margin: 40px 10px;
+}
+
+.menu-icon {
+    width: 3em !important;
+    height: 2rem;
+    fill: #585858 !important;
+    stroke: #585858;
+    cursor: pointer;
+    margin: 40px 10px;
+}
+
+.social-links {
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+.social-links>img {
+    margin: 50px 20px;
+}

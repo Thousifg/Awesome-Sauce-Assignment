@@ -1,0 +1,26 @@
+.carousel-img {
+    height: 550px !important;
+    object-fit: cover;
+}
+
+.head-carousel{
+    margin-top: 12%;
+}
+
+.caption {
+    color: #585858;
+    font-weight: 700;
+    font-size: 40px;
+    text-transform: capitalize;
+    margin-top: 10px;
+    margin-bottom: -2%;
+}
+
+.caption-div {
+    background-color: rgb(255 255 255 /80%);
+    bottom: 0;
+    width: 50%;
+    margin: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}

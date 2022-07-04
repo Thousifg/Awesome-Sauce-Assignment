@@ -1,0 +1,23 @@
+.review-section{
+    padding: 80px 0;
+}
+
+.review-title{
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+.carousel-div{
+    width: 30%;
+    margin: auto;
+}
+
+.slide{
+    padding: 20px 0;
+}
+
+.slide>h3{
+    font-size: 18px;
+    font-weight: bold;
+}

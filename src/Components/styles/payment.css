@@ -1,0 +1,14 @@
+.pay-form{
+    margin-left: 20% !important;
+    margin-top: 13%;
+}
+
+.success-msg{
+    margin-top: 30%;
+    border: 2px solid springgreen;
+    border-radius: 50%;
+    width: 15%;
+    padding: 20px;
+    padding-bottom: 25px;
+    margin-left: 42%;
+}

@@ -1,0 +1,25 @@
+.design-section {
+    display: flex;
+}
+
+.design-quote {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.design-quote>h2 {
+    color: #822c07;
+}
+
+.design-quote>img {
+    width: 45px;
+}
+
+.design-img {
+    width: 50%;
+}
+
+.design-img>img {
+    object-fit: cover;
+    width: 100%;
+}
